@@ -1,8 +1,6 @@
-# forkify
+# React App
 
 A Reactjs app rendering API calls.
-
-## Running using local machine
 
 ### Installing
 
